@@ -2,7 +2,7 @@
 
 # 🚀 Bhavesh Ghatode — Portfolio
 
-### Full Stack & Java Developer
+### Full Stack Developer
 
 A cinematic, single-page developer portfolio built with React and Vite — featuring a video hero, scroll-triggered animations, and a bold red/black design language throughout.
 
